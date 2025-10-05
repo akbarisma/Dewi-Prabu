@@ -18,7 +18,7 @@ export default function AboutProduct() {
             About <span className="text-yellow-300">Dewi Prabu</span> Products
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto drop-shadow-lg">
-            Discover the story behind Dewi Prabu's innovative banana-based products and our commitment to sustainability
+            Temukan kisah di balik produk inovatif berbasis pisang Dewi Prabu dan komitmen kami terhadap keberlanjutan
           </p>
         </div>
       </div>
@@ -29,8 +29,8 @@ export default function AboutProduct() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">Our Mission</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Dewi Prabu (Desa Wirausaha Pisang Raja Bulu) believes in transforming agricultural waste into valuable products that benefit both people and the planet. 
-              Every banana leaf, peel, and fiber that would otherwise be discarded becomes the foundation for our innovative product line, supporting local farmers and sustainable agriculture.
+              Dewi Prabu (Desa Wirausaha Pisang Raja Bulu) percaya pada upaya mengubah limbah pertanian menjadi produk bernilai yang bermanfaat bagi manusia dan planet ini.
+              Setiap bagian dari tanaman pisang mulai dari buah hingga pelepah pisang, menjadi fondasi bagi lini produk inovatif kami, yang mendukung petani lokal dan pertanian berkelanjutan.
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export default function AboutProduct() {
                 <Leaf className="text-green-600" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Sustainable</h3>
-              <p className="text-gray-600">Using renewable banana-based materials for all our products</p>
+              <p className="text-gray-600">Menggunakan bahan dasar pisang yang terbarukan untuk semua produk kami</p>
             </div>
 
             <div className="text-center p-6 bg-white rounded-xl shadow-lg">
@@ -49,7 +49,7 @@ export default function AboutProduct() {
                 <Recycle className="text-blue-600" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Zero Waste</h3>
-              <p className="text-gray-600">Converting agricultural waste into valuable products</p>
+              <p className="text-gray-600">Mengubah limbah pertanian menjadi produk yang bernilai</p>
             </div>
 
             <div className="text-center p-6 bg-white rounded-xl shadow-lg">
@@ -57,7 +57,7 @@ export default function AboutProduct() {
                 <Heart className="text-purple-600" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Community</h3>
-              <p className="text-gray-600">Supporting local farmers and sustainable agriculture</p>
+              <p className="text-gray-600">Mendukung petani lokal dan pertanian berkelanjutan</p>
             </div>
 
             <div className="text-center p-6 bg-white rounded-xl shadow-lg">
@@ -65,7 +65,7 @@ export default function AboutProduct() {
                 <Award className="text-orange-600" size={32} />
               </div>
               <h3 className="text-xl font-bold text-gray-800 mb-2">Quality</h3>
-              <p className="text-gray-600">Premium products that meet the highest standards</p>
+              <p className="text-gray-600">Produk premium yang memenuhi standar tertinggi</p>
             </div>
           </div>
 
@@ -77,16 +77,16 @@ export default function AboutProduct() {
               <div className="border-l-4 border-orange-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Food Products</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Sendookies & GoldenBana:</strong> Our food line transforms banana waste into delicious, 
-                  healthy snacks that preserve the natural flavor and nutritional benefits of bananas.
+                  <strong>Sendookies & GoldenBana:</strong> merupakan produk olahan pisang yang terbuat dari buah pisang raja bulu
+                  menjadikan Sendookies dan GoldenBana camilan lezat dan sehat yang mempertahankan rasa alami dan manfaat nutrisi pisang.
                 </p>
               </div>
 
               <div className="border-l-4 border-green-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Agricultural Products</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Econana:</strong> Our organic fertilizer turns banana waste into nutrient-rich soil enhancer, 
-                  completing the agricultural cycle sustainably.
+                  <strong>Econana:</strong> Pupuk organik yang terbuat dari limbah pelepah pisang menjadikannya penyubur tanah yang kaya nutrisi,
+                  menyempurnakan siklus pertanian secara berkelanjutan.
                 </p>
               </div>
 
