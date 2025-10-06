@@ -93,24 +93,24 @@ export default function AboutProduct() {
               <div className="border-l-4 border-blue-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Personal Care</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Bananique:</strong> Natural soap infused with banana extracts provides gentle skincare 
-                  with moisturizing properties and pleasant natural fragrance.
+                  <strong>Bananique:</strong> Sabun cuci piring yang mengandung ekstrak kulit pisang, menjadikan bananique sebagai sabun cuci piring alami
+                  yang ramah lingkungan.
                 </p>
               </div>
 
               <div className="border-l-4 border-yellow-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Cooking Essentials</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Grenana Flour:</strong> High-quality, gluten-free banana flour perfect for health-conscious 
-                  consumers seeking nutritious baking alternatives.
+                  <strong>Grenana Flour:</strong> Tepung pisang berkualitas tinggi dan bebas gluten, cocok untuk konsumen yang peduli kesehatan
+                  dan mencari alternatif kue bergizi.
                 </p>
               </div>
 
               <div className="border-l-4 border-purple-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Fashion & Lifestyle</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Sunbana Leaf & Banaleaf Craft:</strong> Sustainable fashion accessories made from banana 
-                  fiber and leaves, combining traditional craftsmanship with modern design.
+                  <strong>Sunbana Leaf & Banaleaf Craft:</strong> Aksesori fesyen berkelanjutan yang terbuat dari serat dan daun pisang,
+                  memadukan keahlian tradisional dengan desain modern.
                 </p>
               </div>
             </div>
