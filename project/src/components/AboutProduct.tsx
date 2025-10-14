@@ -109,7 +109,7 @@ export default function AboutProduct() {
               <div className="border-l-4 border-purple-500 pl-6">
                 <h3 className="text-xl font-bold text-gray-800 mb-2">Fashion & Lifestyle</h3>
                 <p className="text-gray-600 mb-2">
-                  <strong>Sunbana Leaf & Banaleaf Craft:</strong> Aksesori fesyen berkelanjutan yang terbuat dari serat dan daun pisang,
+                  <strong>Sunbana Leaf & Banaleaf Craft:</strong> Aksesori fashion berkelanjutan yang terbuat dari serat dan daun pisang,
                   memadukan keahlian tradisional dengan desain modern.
                 </p>
               </div>
